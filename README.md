@@ -11,7 +11,7 @@ This repository documents the **Quality Assurance (QA)** process I performed on 
 ## Test Artifacts (Deliverables)
 | Artifact | Description |
 | :--- | :--- |
-| **Test Execution Logs** <br> 🔗 **[View Live Google Sheet](https://docs.google.com/spreadsheets/d/1qnTrv6cLdWg9NC0QjUZpUfUwNEbFiT-Hu5zx8-BvQVE/edit?usp=sharing)** <br> 📂 *[Download Excel Backup](./test-cases/WISE%20(Web-based%20Institutional%20System%20for%20Education)%20-%20QA%20Test%20Execution%20Logs.xlsx)* | Comprehensive test script covering **10+ scenarios**. <br> Includes Happy Path, Negative Testing, and Boundary Analysis. |
+| **Test Execution Logs** <br> **[View Live Google Sheet](https://docs.google.com/spreadsheets/d/1qnTrv6cLdWg9NC0QjUZpUfUwNEbFiT-Hu5zx8-BvQVE/edit?usp=sharing)** <br>  *[Download Excel Backup](./test-cases/WISE%20(Web-based%20Institutional%20System%20for%20Education)%20-%20QA%20Test%20Execution%20Logs.xlsx)* | Comprehensive test script covering **10+ scenarios**. <br> Includes Happy Path, Negative Testing, and Boundary Analysis. |
 | **[Jira Defect Board](./Jira-defects/Jira-defects.png)** | Kanban board used to track the Defect Life Cycle from "New Bug" to "Verified". |
 
 ---
